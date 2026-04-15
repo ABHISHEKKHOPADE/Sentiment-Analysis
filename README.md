@@ -1,5 +1,5 @@
 # assignment
-# 📊 Sentiment Trend Analysis on Crypto Trades
+# 📊 Sentiment Trend Analysis on Crypto Trades.
 
 ## 🔍 Overview
 This project analyzes cryptocurrency trading data to identify **trader sentiment trends** and **market patterns**.  
